@@ -33,7 +33,7 @@ fn main() {
 
 ```html
 <div class="flex justify-center">
-  <span class="color-gray-500"> Hello World! </span>
+  <span class="text-pink-800 p-4"> Hello World! </span>
 </div>
 ```
 
