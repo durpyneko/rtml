@@ -19,7 +19,7 @@ fn main() {
             class: "flex justify-center"
 
             Span {
-                class: "color-pink-800 p-4"
+                class: "text-pink-800 p-4"
                 "Hello World!"
             }
         }
